@@ -12,7 +12,7 @@ Refereed Journal Articles
 
 1. **Hussain, Z.**, Sheng, Q.Z., Zhang, W.E., Ortiz, J., and Pouriyeh. S., 2021. <b>Unobtrusive techniques for monitoring different aspects of sleep: A Comprehensive Review. </b> <i> ACM Transaction on Computing for Healthcare (HEALTH)</i>. (In press).
 2. **Hussain, Z.**, Waterworth, D., Mahmood, A., Sheng, Q.Z. and Zhang, W.E., 2021. <b>Dataset for Toothbrushing Activity Using Brush-Attached and Wearable Sensors</b>.<i> Data in Brief, p.107248</i>.
-3. **Hussain, Z.**, Sheng, Q.Z., Zhang, WE. 2020. <b> [A Review and Categorization of Techniques on Device-Free Human Activity Recognition (https://www.sciencedirect.com/science/article/abs/pii/S1084804520302125) </b>. <i>Journal of Network and Computer Application (JNCA), Elsevier, Vol 167, Article 102738, 2020</i>.
+3. **Hussain, Z.**, Sheng, Q.Z., Zhang, WE. 2020. <b> [A Review and Categorization of Techniques on Device-Free Human Activity Recognition] (https://www.sciencedirect.com/science/article/abs/pii/S1084804520302125)</b>. <i>Journal of Network and Computer Application (JNCA), Elsevier, Vol 167, Article 102738, 2020</i>.
 4. **Hussain, Z.**, Abbas, G. and Halim, Z., 2017. <b>A Lightweight Fairness-Driven AQM for Regulating Bandwidth Utilization in Best-Effort Routers</b>. <i>Journal of Network and Systems Management,, pp.1-32</i>.
 
 Refereed Conference Papers
