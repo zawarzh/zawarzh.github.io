@@ -19,7 +19,9 @@ Undergrad Courses
 *	Introduction to Computing and Programming
 *	Operating System
 *	Computer Organization and Assembly Language Programming
+
 Undergrad Labs
+=====
 *	Introduction to Computing and Programming
 *	Intensive Programming
 *	Circuit and Electronics
