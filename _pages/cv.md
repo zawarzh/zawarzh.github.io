@@ -48,9 +48,6 @@ Skills
 Publications 
 ======
 A complete list of my publication can be found [here](https://scholar.google.com.au/citations?user=h1hEBrEAAAAJ&hl=en&oi=ao)
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
