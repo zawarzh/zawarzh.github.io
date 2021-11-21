@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Contacts
-permalink: /contacts/
+title: Honors and Awards
+permalink: /awards/
 author_profile: true
 published: true
 ---
