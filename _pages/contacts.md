@@ -7,8 +7,8 @@ published: true
 ---
 Get in Touch
 ===
-Email: zawar.hussain@unsw.edu.au <br>
-       zawar.hussain@mq.edu.au
+* zawar.hussain@unsw.edu.au 
+* zawar.hussain@mq.edu.au
        
 
 
