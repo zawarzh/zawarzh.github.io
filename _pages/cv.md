@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Fellow (November, 2021)
+* Postdoctoral Research Fellow (November 2021- Present)
   * School of Computer Science and Engineering, University of New South Wales.
 
 * Sessional Academic (July 2018 - Present) 
