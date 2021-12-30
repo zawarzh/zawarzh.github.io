@@ -29,6 +29,7 @@ Journal Reviewing
 *	IEEE Internet of Things Journal
 *	IEEE Transaction on Mobile Computing (TMC)
 *	Transaction on Sensor Networks (TOSN)
+*	Sustainable Energy Technologies and Assessments
 *	Expert Systems with Applications (ESWA)
 *	Computer Communications
 *	Computer Networks
