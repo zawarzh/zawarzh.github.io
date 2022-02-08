@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [Macquarie Uinversity](https://www.mq.edu.au/), Sydney Australia, 2021 (expected).
+* Ph.D in Computer Science, [Macquarie Uinversity](https://www.mq.edu.au/), Sydney Australia, 2022
 * M.S. in Computer System Engineering, [GIK Institute](https://giki.edu.pk/), Pakistan, 2015
 * B.S. in Computer System Engineering, [GIK Institute](https://giki.edu.pk/), Pakistan, 2013
 
