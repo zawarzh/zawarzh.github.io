@@ -18,6 +18,7 @@ Undergrad Courses
 *	Introduction to Database Design and Modelling
 *	Introduction to Computing and Programming
 *	Operating System
+*	Introduction to Cyber Security
 *	Computer Organization and Assembly Language Programming
 
 Undergrad Labs
