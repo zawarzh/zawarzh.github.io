@@ -10,7 +10,7 @@ The following are some of my peer-reviewed publications. For proper citations (a
 Refereed Journal Articles
 ======
 
-* **Hussain, Z.**, Sheng, Q.Z., Zhang, W.E., Ortiz, J., and Pouriyeh. S., 2021. [Unobtrusive techniques for monitoring different aspects of sleep: A Comprehensive Review](https://arxiv.org/abs/2104.12964). <i> ACM Transaction on Computing for Healthcare (HEALTH). (In press)</i>.
+* **Hussain, Z.**, Sheng, Q.Z., Zhang, W.E., Ortiz, J., and Pouriyeh. S., 2021. [Unobtrusive techniques for monitoring different aspects of sleep: A Comprehensive Review](https://dl.acm.org/doi/full/10.1145/3491245?casa_token=ePkTkUplzAYAAAAA%3Abs8iJTUdhE7Bku0vgvkLOm1fIxDbgy8uHRYTwgnsVUluB2Ktqn3twr9tIux918Jh2QbKEBxakYHaJw). <i> ACM Transaction on Computing for Healthcare (HEALTH), 3(2), pp.1-26.</i>.
 * **Hussain, Z.**, Waterworth, D., Mahmood, A., Sheng, Q.Z. and Zhang, W.E., 2021. [Dataset for Toothbrushing Activity Using Brush-Attached and Wearable Sensors](https://www.sciencedirect.com/science/article/pii/S2352340921005321).<i> Data in Brief, p.107248</i>.
 * **Hussain, Z.**, Sheng, Q.Z., Zhang, WE. 2020. [A Review and Categorization of Techniques on Device-Free Human Activity Recognition](https://www.sciencedirect.com/science/article/abs/pii/S1084804520302125). <i>Journal of Network and Computer Application (JNCA), Elsevier, Vol 167, Article 102738, 2020</i>.
 * **Hussain, Z.**, Abbas, G. and Halim, Z., 2017. [A Lightweight Fairness-Driven AQM for Regulating Bandwidth Utilization in Best-Effort Routers](https://link.springer.com/article/10.1007/s10922-017-9427-y). <i>Journal of Network and Systems Management,, pp.1-32</i>.
