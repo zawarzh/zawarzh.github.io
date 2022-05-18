@@ -16,7 +16,8 @@ Refereed Journal Articles
 * **Hussain, Z.**, Abbas, G. and Halim, Z., 2017. [A Lightweight Fairness-Driven AQM for Regulating Bandwidth Utilization in Best-Effort Routers](https://link.springer.com/article/10.1007/s10922-017-9427-y). <i>Journal of Network and Systems Management,, pp.1-32</i>.
 
 Refereed Conference Papers
-======
+======_
+* Aldeer, M., Waterworth, D., **Hussain, Z.**, Chowdhury, T., Brito, C., Sheng, Q.Z., Martin, R.P., and Ortiz, J., 2022, May. MedBuds: In-Ear Inertial Medication Taking Detection Using Smart Wireless Earbuds. Accepted in Second International Workshop on Cyber-Physical-Human System Design and Implementation (CPHS 2022).
 * Akbar, M.S, **Hussain,Z.**, Sheng, Q.Z., Mukhopadhyay, S., 2021. An Enhancement to Channel Access Mechanism for the IEEE 802.15.3C MillimeterWave (5G) Standard to Support Stringent QoS Requirements of IoT. Accepted in 7th EAI International Conference on IoT as a Service (IoTaaS 2021).
 * **Hussain, Z.**, Waterworth, D., Aldeer, M., Zhang, W.E. Sheng, Q.Z., and Ortiz, J., 2021. [Do You Brush Your Teeth Properly? An Off-body Sensor-based Approach for Toothbrushing Monitoring](https://ieeexplore.ieee.org/abstract/document/9581205). <i>In Proceedings of the IEEE International Conference on Digital Health (ICDH 2021) Virtual Conference, September 5-10 2021. (pp. 59-69)</i>.
 * **Hussain, Z.**, Waterworth, D., Aldeer, M., Zhang, W.E. and Sheng, Q.Z., 2020. [Toothbrushing data and analysis of its potential use in human activity recognition applications: Dataset](https://dl.acm.org/doi/abs/10.1145/3419016.3431489). <i>In Proceedings of the Third Workshop on Data: Acquisition To Analysis (DATA '20). (pp. 31-34)</i>.
