@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zawar Hussain"
+title: "Short Bio"
 excerpt: "Zawar Hussain"
 author_profile: true
 redirect_from: 
