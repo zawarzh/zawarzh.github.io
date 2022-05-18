@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: justify"> your-text-here 
 I am currently a Postdoctoral Research Fellow at the School of Computer Science and Engineering, [University of New South Wales (UNSW)](https://www.unsw.edu.au/) Sydney Australia. I did my Ph.D. from [Macquarie University](https://www.mq.edu.au/), Sydney. I am a recipient of International Research Training Program Scholarship from Commonwealth Government of Australia. I did my Master of Science and Bachelor of Science in Computer System Engineering from [Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)](https://giki.edu.pk/), Pakistan in the year 2013 and 2015, respectively.
 
 
-My area of research includes Pervasive Computing, IoT, Human Activity Recognition, Ambient Assisting Living, Digital Health, Machine Learning, RFID, and Active Queue Management.
+My area of research includes Pervasive Computing, IoT, Human Activity Recognition, Ambient Assisting Living, Digital Health, Machine Learning, RFID, and Active Queue Management.</div>
 
