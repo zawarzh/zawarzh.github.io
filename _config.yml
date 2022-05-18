@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zawar Hussain UNSW"
+title                    : "Home"
 title_separator          : "."
 name                     : &name "Zawar Hussain"
 description              : &description "personal description"
