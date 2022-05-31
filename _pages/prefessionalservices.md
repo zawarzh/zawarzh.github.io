@@ -18,6 +18,7 @@ Membership
 
 Program Committees
 ====
+*	The 13th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN-2022) (Track: Semantic Web Technologies).
 *	The 32nd Australasian Conference on Information Systems (ACIS2021) (Track: Application of Emerging Technologies: Artificial Intelligence, Block Chain, and the Internet of Things).
 *	The 19th International Conference on Service-Oriented Computing (ICSOC 2021). Dubai
 *	EDOC International Workshop on Data Leakage Protection and Trustworthiness in Health Data (TLPDHD 2021). Australia.
@@ -29,6 +30,7 @@ Journal Reviewing
 *	IEEE Internet of Things Journal
 *	IEEE Transaction on Mobile Computing (TMC)
 *	Transaction on Sensor Networks (TOSN)
+*	IEEE Networking Letters
 *	Sustainable Energy Technologies and Assessments
 *	Expert Systems with Applications (ESWA)
 *	Computer Communications
