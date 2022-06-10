@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Honorary Research Fellow (June 2022 - Present)
- * School of Computing, Macquarie University.
+  * School of Computing, Macquarie University.
  
 * Postdoctoral Research Fellow (November 2021 - Present)
   * School of Computer Science and Engineering, University of New South Wales.
