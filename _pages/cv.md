@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* Postdoctoral Research Fellow (November 2021- Present)
+* Honorary Research Fellow (June 2022 - Present)
+ * School of Computing, Macquarie University.
+ 
+* Postdoctoral Research Fellow (November 2021 - Present)
   * School of Computer Science and Engineering, University of New South Wales.
 
 * Sessional Academic (July 2018 - Present) 
@@ -81,6 +84,7 @@ Teaching
 Professional Services
 ======
 **Membership**
+*	Member of the Association for Computing Machinery (ACM).
 *	Member of Intelligent Computing Laboratory (ICL) at Macquarie University, Australia.
 *	Pakistan Engineering Council Registered Member. Registration No: COMP/11636
 *	Member of Telecommunication and Networking (TELECON) research group in GIK Institute, Pakistan.
@@ -96,6 +100,7 @@ Professional Services
 *	IEEE Internet of Things Journal
 *	IEEE Transaction on Mobile Computing (TMC)
 *	Transaction on Sensor Networks (TOSN)
+*	IEEE Networking Letters
 *	Expert Systems with Applications (ESWA)
 *	Computer Communications
 *	Computer Networks
