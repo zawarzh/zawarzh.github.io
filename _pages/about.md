@@ -22,7 +22,10 @@ About Me
 
 News
 ======
-* 30 August 2022- Received a research grant of $50000 as Seed Funidng from Centre for Critical Digital Infrastructure (CCDI), UNSW.
-* 26 August 2022- Invited to serve as program committee member at <a href="http://acis.aaisnet.org/acis2022/">ACIS2022</a>, Melbourne Australia.
-* 08 May 2022- Invited to serve as program committee member at <a href="http://cs-conferences.acadiau.ca/euspn-22/">IEUSPN-2022</a>, Leuven Belgium.
-* 06 May 2021- Invited to serve as program committee member at <a href="http://icsoc2021.josueonline.com/">ICSOC-2021</a> Virtual. Originaly planned at Dubai, UAE.
+* August 2022- Received a research grant of $50000 as Seed Funidng from Centre for Critical Digital Infrastructure (CCDI) UNSW.
+* August 2022- Invited to serve as program committee member at <a href="http://acis.aaisnet.org/acis2022/">ACIS2022</a> Melbourne, Australia.
+* May 2022- Invited to serve as program committee member at <a href="http://cs-conferences.acadiau.ca/euspn-22/">IEUSPN-2022</a> Leuven, Belgium.
+* March 2022- Paper got accepted at <a href="https://cphs22.github.io/CPHS22/">CPHS-2022</a> Milan, Italy.<a href="https://ieeexplore.ieee.org/abstract/document/9804515">PDF</a>
+* July 2021- Invited to serve as program committee member at <a href="http://icsoc2021.josueonline.com/">ICSOC-2021</a> Virtual. Originaly planned at Dubai, UAE.
+* May 2021- Invited to serve as program committee member at <a href="http://acis.aaisnet.org/archive.php">ACIS-2021</a> Sydney, Australia.
+* March 2021- Invited to serve as program committee member at <a href="https://sites.google.com/view/dlp-and-thd/home/">DLPTH-2021</a> Gold Coast, Australia.
