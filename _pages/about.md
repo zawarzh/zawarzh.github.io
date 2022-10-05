@@ -22,6 +22,7 @@ About Me
 
 News
 ======
+* September 2022- Volunteered at the  <a href="https://vldb.org/2022/">48th International Conference on Very Large Databases</a> Sydney, Australia. 
 * August 2022- Received a research grant of $50000 as Seed Funding from Centre for Critical Digital Infrastructure (CCDI) UNSW.
 * August 2022- Invited to serve as program committee member at <a href="http://acis.aaisnet.org/acis2022/">ACIS2022</a> Melbourne, Australia.
 * May 2022- Invited to serve as program committee member at <a href="http://cs-conferences.acadiau.ca/euspn-22/">IEUSPN-2022</a> Leuven, Belgium.
