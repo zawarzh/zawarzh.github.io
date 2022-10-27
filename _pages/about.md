@@ -22,13 +22,14 @@ About Me
 
 News
 ======
+* October 2022- Paper accepted at <a href="https://www.mdpi.com/journal/sensors/topical_collections/SGPHM"> Sensors</a>.           
 * September 2022- Volunteered at the  <a href="https://vldb.org/2022/">48th International Conference on Very Large Databases</a> Sydney, Australia. 
 * August 2022- Received a research grant of $50000 as Seed Funding from Centre for Critical Digital Infrastructure (CCDI) UNSW.
 * August 2022- Invited to serve as program committee member at <a href="http://acis.aaisnet.org/acis2022/">ACIS2022</a> Melbourne, Australia.
 * May 2022- Invited to serve as program committee member at <a href="http://cs-conferences.acadiau.ca/euspn-22/">IEUSPN-2022</a> Leuven, Belgium.
-* March 2022- Paper got accepted at <a href="https://cphs22.github.io/CPHS22/">CPHS-2022</a> Milan, Italy. <a href="https://ieeexplore.ieee.org/abstract/document/9804515">PDF</a>
-*  November 2021- Paper got accepted at <a href="https://iotaas.eai-conferences.org/2021/">IoTaaS-2021</a>. <a href="https://link.springer.com/chapter/10.1007/978-3-030-95987-6_2">PDF</a>
-* October 2021- Paper got accepted at <a href="https://dl.acm.org/journal/health">ACM Transactions on Computing for Healthcare (HEALTH)</a>. <a href="https://dl.acm.org/doi/full/10.1145/3491245">PDF</a>
+* March 2022- Paper accepted at <a href="https://cphs22.github.io/CPHS22/">CPHS-2022</a> Milan, Italy. <a href="https://ieeexplore.ieee.org/abstract/document/9804515">PDF</a>
+*  November 2021- Paper accepted at <a href="https://iotaas.eai-conferences.org/2021/">IoTaaS-2021</a>. <a href="https://link.springer.com/chapter/10.1007/978-3-030-95987-6_2">PDF</a>
+* October 2021- Paper accepted at <a href="https://dl.acm.org/journal/health">ACM Transactions on Computing for Healthcare (HEALTH)</a>. <a href="https://dl.acm.org/doi/full/10.1145/3491245">PDF</a>
 * July 2021- Invited to serve as program committee member at <a href="http://icsoc2021.josueonline.com/">ICSOC-2021</a> Virtual. Originaly planned at Dubai, UAE.
 * May 2021- Invited to serve as program committee member at <a href="http://acis.aaisnet.org/archive.php">ACIS-2021</a> Sydney, Australia.
 * March 2021- Invited to serve as program committee member at <a href="https://sites.google.com/view/dlp-and-thd/home/">DLPTH-2021</a> Gold Coast, Australia.
