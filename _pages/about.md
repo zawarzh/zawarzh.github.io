@@ -22,6 +22,7 @@ About Me
 
 News
 ======
+* November 2022- Delivered an Invited Technical Talk to IEEE VTS NSW Chapter. 
 * October 2022- Paper accepted at <a href="https://www.mdpi.com/journal/sensors/topical_collections/SGPHM"> Sensors</a>. <a href="https://www.mdpi.com/1424-8220/22/21/8279">PDF</a>          
 * September 2022- Volunteered at the  <a href="https://vldb.org/2022/">48th International Conference on Very Large Databases</a> Sydney, Australia. 
 * August 2022- Received a research grant of $50000 as Seed Funding from Centre for Critical Digital Infrastructure (CCDI) UNSW.
