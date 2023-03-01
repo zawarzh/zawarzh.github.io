@@ -56,6 +56,7 @@ A complete list of my publication can be found [here](https://scholar.google.com
   
 Talks
 ======
+* Delivered an Invited Technical Talk to IEEE VTS NSW Chapter (Nov 2022).
 * Presented research in IEEE ICDH 2021 conference, Virtual (Originally in Chicago, USA).
 * Delivered an invited talk (2020): "Transition from On-Campus to Online Learning", to the Faculty of GIK Institute, Pakistan. 
 * Presented research in MobiQuitous 2019 conference in Houston, Texas, USA.
@@ -87,6 +88,7 @@ Professional Services
 ======
 **Membership**
 *	Member of the Association for Computing Machinery (ACM).
+*	Member of the  European Alliance for Innovation (EAI).
 *	Member of Intelligent Computing Laboratory (ICL) at Macquarie University, Australia.
 *	Pakistan Engineering Council Registered Member. Registration No: COMP/11636
 *	Member of Telecommunication and Networking (TELECON) research group in GIK Institute, Pakistan.
