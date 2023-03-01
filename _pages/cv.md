@@ -31,7 +31,7 @@ Work experience
 * PhD Candidate/Gradauate Researcher (November 2017 - October 2021)
   * School of Computing, Macquarie University.
 
-[//]: # (* Research Assistant (July 2021- November 2021)) 
+<!--- * Research Assistant (July 2021- November 2021)--->
 [//]: #(  * Australian Research Council project "Context and Activity Recognition for Personalised Behaviour Recommendation (ARC LP190100140)".)
 
 [//]: # (* Research Assistant (May 2018 - Nov 2018)
