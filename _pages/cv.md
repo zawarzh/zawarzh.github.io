@@ -28,17 +28,19 @@ Work experience
 
 * Sessional Teacher (July 2019 - Present) 
   * Macquarie University International College.
+* PhD Candidate/Gradauate Researcher (November 2017 - October 2021)
+  * School of Computing, Macquarie University.
 
-* Research Assistant (July 2021- November 2021) 
-  * Australian Research Council project "Context and Activity Recognition for Personalised Behaviour Recommendation (ARC LP190100140)".
+[comment]: <> (* Research Assistant (July 2021- November 2021)) 
+[comment]: <> (  * Australian Research Council project "Context and Activity Recognition for Personalised Behaviour Recommendation (ARC LP190100140)".)
 
-* Research Assistant (May 2018 - Nov 2018)
-  * Australian Research Council LIEF project "A Large-Scale Distributed Experimental Facility for the Internet of Things (ARC LE18010058)".
+[comment]: <> (* Research Assistant (May 2018 - Nov 2018)
+[comment]: <> (  * Australian Research Council LIEF project "A Large-Scale Distributed Experimental Facility for the Internet of Things (ARC LE18010058)".)
 
-* Lecturer (2015- 2017 (Study leave now))  
+* Research Associate (August 2015 - October 2017)  
   * Faculty of Computer Science and Engineering, GIK Institute, Pakistan.
 
-* Graduate Assistant (2013-2015) 
+* MS Fellow/ Research Assistant (August 2013 - August 2015) 
   * Faculty of Computer Science and Engineering, GIK Institute, Pakistan.
 
   
