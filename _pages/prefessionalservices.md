@@ -12,10 +12,11 @@ published: true
 
 Membership
 =====
-*	Member of the Association for Computing Machinery (ACM).
-*	Member of Intelligent Computing Laboratory (ICL) at Macquarie University, Australia.
-*	Pakistan Engineering Council Registered Member. Registration No: COMP/11636
-*	Member of Telecommunication and Networking (TELECON) research group in GIK Institute, Pakistan.
+*	Member of the <a href="https://www.acm.org/">Association for Computing Machinery (ACM)</a>
+*	Member of the <a href="https://eai.eu/#!/">European Alliance for Innovation (EAI)</a>
+*	Member of <a href="https://icl-mq.weebly.com/">Intelligent Computing Laboratory (ICL)</a> at Macquarie University, Australia. 
+*	<a href="https://pec.org.pk/">Pakistan Engineering Council (PEC)</a> Registered Member. Registration No: COMP/11636
+*	Member of <a href="https://giki.edu.pk/rd/rd-fcs/telecon/">Telecommunication and Networking (TELECON)</a>  at GIK Institute, Pakistan.
 
 Program Committees
 ====
