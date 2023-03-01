@@ -32,10 +32,10 @@ Work experience
   * School of Computing, Macquarie University.
 
 <!--- * Research Assistant (July 2021- November 2021)--->
-[//]: #(  * Australian Research Council project "Context and Activity Recognition for Personalised Behaviour Recommendation (ARC LP190100140)".)
+<!---  * Australian Research Council project "Context and Activity Recognition for Personalised Behaviour Recommendation (ARC LP190100140)".)--->
 
-[//]: # (* Research Assistant (May 2018 - Nov 2018)
-[//]: # (  * Australian Research Council LIEF project "A Large-Scale Distributed Experimental Facility for the Internet of Things (ARC LE18010058)".)
+<!--- * Research Assistant (May 2018 - Nov 2018)--->
+<!---  * Australian Research Council LIEF project "A Large-Scale Distributed Experimental Facility for the Internet of Things (ARC LE18010058)".)--->
 
 * Research Associate (August 2015 - October 2017)  
   * Faculty of Computer Science and Engineering, GIK Institute, Pakistan.
