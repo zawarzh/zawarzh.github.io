@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Lecturer (March 2023 - Present)
+  * Sydney Polytechnic Institute.
+  
+* Junior Visiting Research Fellow (March 2023 - Present)
+  * University of New South Wales
 * Honorary Research Fellow (June 2022 - Present)
   * School of Computing, Macquarie University.
  
