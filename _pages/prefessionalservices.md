@@ -12,6 +12,7 @@ published: true
 
 Membership
 =====
+*	Member of the <a href="https://www.acs.org.au/">Australian Computing Society (ACS)</a>
 *	Member of the <a href="https://www.acm.org/">Association for Computing Machinery (ACM)</a>
 *	Member of the <a href="https://eai.eu/#!/">European Alliance for Innovation (EAI)</a>
 *	Member of <a href="https://icl-mq.weebly.com/">Intelligent Computing Laboratory (ICL)</a> at Macquarie University, Australia. 
