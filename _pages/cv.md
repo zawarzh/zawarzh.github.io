@@ -25,10 +25,10 @@ Work experience
 * Honorary Research Fellow (June 2022 - Present)
   * School of Computing, Macquarie University.
  
-* Postdoctoral Research Fellow (November 2021 - Present)
+* Postdoctoral Research Fellow (November 2021 - March 2023)
   * School of Computer Science and Engineering, University of New South Wales.
 
-* Sessional Academic (July 2018 - Present) 
+* Sessional Academic (July 2018 - March 2023) 
   * School of Computing, Macquarie University.
 
 * Sessional Teacher (July 2019 - Present) 
@@ -92,6 +92,7 @@ Teaching
 Professional Services
 ======
 **Membership**
+*	Member of Australian Computing Society (ACS).
 *	Member of the Association for Computing Machinery (ACM).
 *	Member of the  European Alliance for Innovation (EAI).
 *	Member of Intelligent Computing Laboratory (ICL) at Macquarie University, Australia.
