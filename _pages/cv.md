@@ -92,7 +92,7 @@ Teaching
 Professional Services
 ======
 **Membership**
-*	Member of Australian Computing Society (ACS).
+*	Member of the Australian Computing Society (ACS).
 *	Member of the Association for Computing Machinery (ACM).
 *	Member of the  European Alliance for Innovation (EAI).
 *	Member of Intelligent Computing Laboratory (ICL) at Macquarie University, Australia.
