@@ -32,6 +32,7 @@ News
 * June 2022- Conferred with the title of "Honorary Research Fellow" at <a href="https://www.mq.edu.au">Macquarie University</a>.
 * May 2022- Invited to serve as a program committee member at <a href="http://cs-conferences.acadiau.ca/euspn-22/">IEUSPN-2022</a> Leuven, Belgium.
 * March 2022- Paper accepted at <a href="https://cphs22.github.io/CPHS22/">CPHS-2022</a> Milan, Italy. <a href="https://ieeexplore.ieee.org/abstract/document/9804515">PDF</a>
+* February 2022- Completed my PhD studies at <a href="https://www.mq.edu.au">Macquarie University</a>. 
 * November 2021- Joined <a href="https://www.unsw.edu.au/engineering/our-schools/computer-science-and-engineering"> School of Computer Sceince and Engineering, UNSW </a> as Postdoctoral Research Fellow.
 * November 2021- Paper accepted at <a href="https://iotaas.eai-conferences.org/2021/">IoTaaS-2021</a>. <a href="https://link.springer.com/chapter/10.1007/978-3-030-95987-6_2">PDF</a>
 * October 2021- Paper accepted at <a href="https://dl.acm.org/journal/health">ACM Transactions on Computing for Healthcare (HEALTH)</a>. <a href="https://dl.acm.org/doi/full/10.1145/3491245">PDF</a>
