@@ -22,7 +22,7 @@ About Me
 
 News
 ======
-* March 2023- Conferred with the title of Junior Visiting Research Fellow at the Univerity of New South Wales, Sydney.
+* March 2023- Conferred with the title of Junior Visiting Research Fellow at <a href="https://www.unsw.edu.au/"> University of New South Wales</a>, Sydney.
 * March 2023- Joined <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a> as Lecturer in Data Sceince.
 * November 2022- Delivered an Invited Technical Talk to IEEE VTS NSW Chapter. 
 * October 2022- Paper accepted at <a href="https://www.mdpi.com/journal/sensors/topical_collections/SGPHM"> Sensors</a>. <a href="https://www.mdpi.com/1424-8220/22/21/8279">PDF</a>          
