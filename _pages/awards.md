@@ -7,7 +7,7 @@ published: true
 ---
 
 * Received a research grant of $50000 as Seed Funding from Centre for Critical Digital Infrastructure (CCDI) UNSW.
-* Postdoctoral Fellowship at University of New South Wales, Sydney Australia (2021-present).
+* Postdoctoral Fellowship at University of New South Wales, Sydney Australia (2021-2023).
 * Recipient of IRTP Scholarship from Govt. of Australia (2017-21).
 * Recipient of MS fellowship from GIK Institute (2013-15).
 * Recipient of Chief Minister Scholarship from Govt. of Khyber Pakhtunkhwa (2009-13).
