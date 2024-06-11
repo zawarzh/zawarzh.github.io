@@ -13,7 +13,7 @@ About Me
 <meta name="google-site-verification" content="r66YdKi3bZdmAiD1HupC96CrmY4uszTPFAgpRaztrJ8" />
 <div style="text-align: justify"> 
 <p>
- I am currently a Lecturer in Data Science at <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a> Sydney Australia. I am also a Junior Visiting Research Fellow at  <a href="https://www.unsw.edu.au/"> University of New South Wales (UNSW)</a> and an Honorary Research Fellow at <a href="https://www.mq.edu.au">Macquarie University</a> Sydney Australia. I did my PhD from <a href="https://www.mq.edu.au">Macquarie University</a> in 2022. I am a recipient of the International Research Training Program Scholarship from the Commonwealth Government of Australia. I did my Master of Science and Bachelor of Science in Computer System Engineering from <a href="https://giki.edu.pk">Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)</a> Pakistan in the years 2013 and 2015, respectively.</p>
+ I am currently a Lecturer in Data Science at <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a> Sydney Australia. I am also the Course Cordinator for the Master in Data Science program. I am an Honorary Research Fellow at <a href="https://www.mq.edu.au">Macquarie University</a> Sydney Australia. Prioir to Joining SPI, I worked as Potddoc Research Fellow at <a href="https://www.unsw.edu.au/"> University of New South Wales (UNSW)</a>. I did my PhD from <a href="https://www.mq.edu.au">Macquarie University</a> in 2022. I am a recipient of the International Research Training Program Scholarship from the Commonwealth Government of Australia. I did my Master of Science and Bachelor of Science in Computer System Engineering from <a href="https://giki.edu.pk">Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)</a> Pakistan in the years 2013 and 2015, respectively.</p>
 
 
 <p>
@@ -22,6 +22,7 @@ About Me
 
 News
 ======
+* March 2024- Accepted the Role of Course Cordinator at <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a> for the Master in Data Science Program.
 * March 2023- Conferred with the title of Junior Visiting Research Fellow at <a href="https://www.unsw.edu.au/"> University of New South Wales</a>, Sydney.
 * March 2023- Joined <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a> as Lecturer in Data Sceince.
 * November 2022- Delivered an Invited Technical Talk to IEEE VTS NSW Chapter. 
