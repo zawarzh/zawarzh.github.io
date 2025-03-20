@@ -39,7 +39,7 @@ Work experience
 
 * Sessional Teacher (July 2019 - Present) 
   * Macquarie University International College.
-* PhD Candidate/Gradauate Researcher (November 2017 - October 2021)
+* PhD Candidate/Graduate Researcher (November 2017 - October 2021)
   * School of Computing, Macquarie University.
 
 <!--- * Research Assistant (July 2021- November 2021)--->
@@ -48,10 +48,10 @@ Work experience
 <!--- * Research Assistant (May 2018 - Nov 2018)--->
 <!---  * Australian Research Council LIEF project "A Large-Scale Distributed Experimental Facility for the Internet of Things (ARC LE18010058)".)--->
 
-* Research Associate (August 2015 - October 2017)  
+* Lecturer (August 2015 - October 2017)  
   * Faculty of Computer Science and Engineering, GIK Institute, Pakistan.
 
-* MS Fellow/ Research Assistant (August 2013 - August 2015) 
+* Associate Lecturer (August 2013 - August 2015) 
   * Faculty of Computer Science and Engineering, GIK Institute, Pakistan.
 
   
