@@ -8,6 +8,10 @@ author_profile: true
 Graduate Courses
 =====
 
+* Programming Foundations for Data Science
+* Database Systems and Infrastructure
+* Data Science Capstone Project
+* Industrial Experience Project
 * Network System Architecture and Cloud Technologies
 * Network System Design        
 
