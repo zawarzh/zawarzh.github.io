@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+* Senior Lecturer (August 2024 - Present)
+  * Sydney Polytechnic Institute.
+
+* Coordinator for Master in Data Science Program (March 2024 - Present)
+  * Sydney Polytechnic Institute.
+    
 * Lecturer (March 2023 - Present)
   * Sydney Polytechnic Institute.
   
