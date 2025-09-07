@@ -22,6 +22,7 @@ About Me
 
 News
 ======
+* July 2025- Paper accepted at <a href="https://www.sciencedirect.com/journal/computers-in-biology-and-medicine"> Computers in Biology andf Medicine</a>. <a href="https://arxiv.org/pdf/2502.17836?">arXiv</a>    
 * August 2024- Promoted to Senior Lecturer
 * March 2024- Accepted the Role of Course Coordinator at <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a> for the Master in Data Science Program.
 * March 2023- Conferred with the title of Junior Visiting Research Fellow at <a href="https://www.unsw.edu.au/"> University of New South Wales</a>, Sydney.
