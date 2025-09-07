@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ooir# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zawar Hussain"
   avatar           : "zawar.jpeg"
-  bio              : "Lecturer"
+  bio              : "Senior Lecturer"
   location         : "Sydney, Australia"
   employer         : "Sydney Polytechnic Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
