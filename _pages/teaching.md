@@ -18,8 +18,7 @@ Graduate Courses
 
 * Programming Foundations for Data Science
 * Database Systems and Infrastructure
-* Data Science Capstone Project
-* Industrial Experience Project
+* Data Science Methodology
 * Network System Architecture and Cloud Technologies
 * Network System Design        
 
