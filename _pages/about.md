@@ -23,7 +23,7 @@ About Me
 News
 ======
 * December 2025- Received Academic Staff Excellence Award (First Place) from <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a>.
-* October 2025- Two papers accepted at <a https://fit.edu.pk/Default.aspx">22nd International Conference on Frontiers of Information Technology (FIT 2025)</a>. 
+* October 2025- Two papers accepted at <a href="https://fit.edu.pk/Default.aspx">22nd International Conference on Frontiers of Information Technology (FIT 2025)</a>. 
 * July 2025- Paper accepted at <a href="https://www.sciencedirect.com/journal/computers-in-biology-and-medicine"> Computers in Biology andf Medicine</a>. <a href="https://arxiv.org/pdf/2502.17836?">arXiv</a>    
 * August 2024- Promoted to Senior Lecturer
 * March 2024- Accepted the Role of Course Coordinator at <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a> for the Master in Data Science Program.
