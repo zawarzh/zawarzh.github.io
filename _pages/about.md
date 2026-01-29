@@ -22,6 +22,7 @@ About Me
 
 News
 ======
+* January 2026- Paper accepted at <a href="https://www.mdpi.com/journal/sensors"> Sensors </a>. <a href="https://www.mdpi.com/1424-8220/26/2/608">PDF</a> 
 * December 2025- Received Academic Staff Excellence Award (First Place) from <a href="http://spi.nsw.edu.au/">Sydney Polytechnic Institute</a>.
 * December 2025- Paper accepted at <a href="https://www.sciencedirect.com/journal/computers-in-biology-and-medicine"> Computers in Biology andf Medicine</a>. <a href="https://www.sciencedirect.com/science/article/pii/S0010482525017391">PDF</a> 
 * October 2025- Two papers accepted at <a href="https://fit.edu.pk/Default.aspx">22nd International Conference on Frontiers of Information Technology (FIT 2025)</a>.    
